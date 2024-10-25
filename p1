@@ -4,3 +4,5 @@ git_repo
 merge
 show
 diff
+log
+merge_conflict
