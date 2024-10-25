@@ -6,3 +6,5 @@ git
 log
 status
 
+log
+local_repo
