@@ -8,3 +8,7 @@ status
 
 log
 local_repo
+merge
+log
+status
+commit
