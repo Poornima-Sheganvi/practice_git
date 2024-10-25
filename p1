@@ -1,5 +1,9 @@
 pull
 push
-merge
+git_repo
+hello
+merge  
 show
 diff
+log
+merge_conflict
