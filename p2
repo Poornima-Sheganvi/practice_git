@@ -12,3 +12,7 @@ merge
 log
 status
 commit
+branch
+checkout
+commit
+:
