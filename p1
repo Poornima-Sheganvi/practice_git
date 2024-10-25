@@ -3,3 +3,5 @@ push
 merge
 show
 diff
+log
+merge_conflict
