@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 show
 pull
 push
@@ -8,4 +6,7 @@ show
 diff
 log
 merge_conflict
->>>>>>> afd79cd9ba571efab636142b05e608d10c7d2bb8
+hello
+git
+repo
+local repo
