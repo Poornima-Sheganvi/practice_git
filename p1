@@ -2,10 +2,13 @@ show
 git
 pull
 push
-git_repo
-hello
-merge  
+merge
 show
 diff
 log
 merge_conflict
+hello
+git
+repo
+local repo
+clone
