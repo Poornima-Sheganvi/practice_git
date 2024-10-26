@@ -6,6 +6,8 @@ git
 log
 status
 log
+status
+log
 local_repo
 merge
 log
