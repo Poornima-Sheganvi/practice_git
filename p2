@@ -5,7 +5,6 @@ show
 git
 log
 status
-
 log
 local_repo
 merge
@@ -15,4 +14,3 @@ commit
 branch
 checkout
 commit
-:
