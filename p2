@@ -20,4 +20,5 @@ pull
 push
 git
 local
+log
 repo
