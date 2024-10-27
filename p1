@@ -11,6 +11,6 @@ mkdir
 java
 hello
 git
-repo
-local repo
-clone
+ls
+mv
+
