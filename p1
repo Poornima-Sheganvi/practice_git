@@ -3,12 +3,8 @@ git
 pull
 push
 merge
-show
-diff
-log
-merge_conflict
 hello
 git
-repo
-local repo
-clone
+ls
+mv
+
